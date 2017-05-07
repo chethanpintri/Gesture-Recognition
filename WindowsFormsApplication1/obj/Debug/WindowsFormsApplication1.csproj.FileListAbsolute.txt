@@ -1,0 +1,56 @@
+c:\users\shubhampc\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\shubhampc\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\shubhampc\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\shubhampc\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.dll
+c:\users\shubhampc\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.dll
+c:\users\shubhampc\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Math.dll
+c:\users\shubhampc\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\shubhampc\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\shubhampc\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\shubhampc\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\shubhampc\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\shubhampc\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.dll
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.dll
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Math.dll
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.xml
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.xml
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Math.xml
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\node\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\node\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\node\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\node\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\node\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\node\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.dll
+C:\Users\node\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Imaging.dll
+C:\Users\node\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AForge.Math.dll
+C:\Users\node\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\node\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\node\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\node\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\node\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SVM.dll
+C:\Users\node\Documents\Visual Studio 2015\Projects\Gestures-v1.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\node\Documents\Visual Studio 2015\Projects\Gestures-v1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\node\Documents\Visual Studio 2015\Projects\Gestures-v1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\node\Documents\Visual Studio 2015\Projects\Gestures-v1.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\node\Documents\Visual Studio 2015\Projects\Gestures-v1.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\node\Documents\Visual Studio 2015\Projects\Gestures-v1.2\WindowsFormsApplication1\bin\Debug\AForge.dll
+C:\Users\node\Documents\Visual Studio 2015\Projects\Gestures-v1.2\WindowsFormsApplication1\bin\Debug\AForge.Imaging.dll
+C:\Users\node\Documents\Visual Studio 2015\Projects\Gestures-v1.2\WindowsFormsApplication1\bin\Debug\SVM.dll
+C:\Users\node\Documents\Visual Studio 2015\Projects\Gestures-v1.2\WindowsFormsApplication1\bin\Debug\AForge.Math.dll
+C:\Users\node\Documents\Visual Studio 2015\Projects\Gestures-v1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\node\Documents\Visual Studio 2015\Projects\Gestures-v1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\node\Documents\Visual Studio 2015\Projects\Gestures-v1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\node\Documents\Visual Studio 2015\Projects\Gestures-v1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
